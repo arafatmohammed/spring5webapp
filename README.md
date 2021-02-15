@@ -67,6 +67,22 @@ Pronounced as Time Leaf
 Thymeleaf is a natural templating engine, works from an HTML document via the Thymeleaf namespace, where `th` are Thymeleaf directives to tell Thymeleaf how to render the document.
 
 
+### Spring Framework Petclinic
+
+Sample application designed to show how the Spring application frameworks can be used to build simple, but powerful database-oriented applications.
+
+
+#### Software Layers:
+
+* Views
+* Controller
+* Service
+* Repository
+
+---
+
+* Spring Project: https://github.com/spring-projects/spring-petclinic
+* SpringBoot Project: https://github.com/spring-petclinic/spring-framework-petclinic
 
 
 
